@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Great Vibes';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/RWmMoKWR9v4ksMfaWd_JN9XLiaE.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url(../fonts/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7g.ttf) format('truetype');
+}
